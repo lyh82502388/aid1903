@@ -1,0 +1,31 @@
+前情回顾
+
+修改
+1. 文件的读写操作
+   read()
+	 readline()
+	 readlines()
+	 for line in fd
+   
+	 write()
+	 writelines()
+
+2. 缓冲区  flush
+
+3. 文件的偏移量  seek  tell
+
+4. 文件管理函数： 
+		getsize()  listdir()  exists() isfile()  remove()
+
+5. 网络理论基础
+	 
+	* OSI七层模型 、TCP/IP模型
+	* 网络基本概念： IP，域名，端口号
+
+
+作业 ： 1. 使用tcp服务和客户端编程，将一个文件从客户端发						 送到服务端，文件类型为图片或者普通文本皆可。
+
+        2. 重点代码必须自己能写
+
+
+markdown
